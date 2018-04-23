@@ -1,0 +1,46 @@
+{
+  "name": "orchjs",
+  "version": "0.0.0",
+  "description": "Orchestrate queue jobs at multi hosts by space or cpu time.",
+  "main": "server/app.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "composable-middleware": "^0.3.0",
+    "compression": "^1.7.2",
+    "cookie-parser": "^1.3.5",
+    "errorhandler": "^1.5.0",
+    "express-handlebars": "^2.0.1",
+    "method-override": "^2.3.9",
+    "express-jwt": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-express": "^0.3.5",
+    "socket.io": "^2.0.4",
+    "dotenv": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-plugin-transform-react-jsx": "^6.4.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.24.1",
+    "babelify": "^7.2.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.3",
+    "gulp-express": "^0.3.5",
+    "gulp-live-server": "0.0.30",
+    "gulp-shell": "^0.5.1",
+    "rimraf": "^2.5.0",
+    "run-sequence": "^1.1.5",
+    "vinyl-source-stream": "^1.1.2",
+    "browserify": "^13.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ovictoraurelio@gmail.com",
+  "license": "ISC"
+}
