@@ -2,7 +2,7 @@
 
 Orchestrate queue jobs at multi hosts by space or cpu time
 
-## CAUTION ANYONE RELEASE DONE YET
+## CAUTION NO ONE RELEASE DONE YET
 
 ## Usage    
 
